@@ -2,9 +2,9 @@
 <h3 align="center">💻 Full Stack Developer | AI Enthusiast | Cloud & Data Explorer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
+  <a href="https://www.linkedin.com/in/nityanandh-sajjanam-994543209/">LinkedIn</a> •
+  <a href="nnithin357@gmail.com">Email</a> •
+  <a href="https://nityanandh.netlify.app/">Portfolio</a>
 </p>
 
 <p align="center">
@@ -90,13 +90,13 @@ I'm a passionate developer who thrives on building intelligent, scalable, and us
 ### 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/nityanandh-sajjanam-994543209/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nnithin357@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://nityanandh.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
