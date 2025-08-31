@@ -58,11 +58,11 @@ I'm a passionate developer who thrives on building intelligent, scalable, and us
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[🤖 AI Agent Web UI](https://github.com/yourusername/ai-agent-ui)** | Browser-based AI interface with multi-LLM support (OpenAI, Gemini), automated workflows, and Docker. | React, FastAPI, Docker, OpenAI API |
-| **[💼 Job Board Portal](https://github.com/yourusername/job-board)** | Full-stack job portal with advanced filtering & pagination. Improved search efficiency by 40%. | MERN Stack (MongoDB, Express, React, Node.js) |
-| **[📈 Mini Trading Dashboard](https://github.com/yourusername/trading-dash)** | Live trading dashboard featuring TradingView charts and real-time price updates. | React, WebSocket, TradingView API, Tailwind CSS |
-| **[🧠 NitiMind – AI Assistant](https://github.com/yourusername/nitimind)** | Voice-enabled AI assistant built with Gemini API, featuring contextual memory. | Python, Gemini API, SpeechRecognition |
-| **[🌐 Portfolio Website](https://github.com/yourusername/portfolio)** | Responsive, SEO-optimized portfolio scoring 90+ on Lighthouse. | React, Gatsby/Next.js, Framer Motion |
+| **[🤖 AI Agent Web UI](https://github.com/NithinSajjanam/Ai-Agent.git)** | Browser-based AI interface with multi-LLM support (OpenAI, Gemini), automated workflows, and Docker. | React, FastAPI, Docker, OpenAI API |
+| **[💼 Job Board Portal](https://github.com/NithinSajjanam/Job-Board.git)** | Full-stack job portal with advanced filtering & pagination. Improved search efficiency by 40%. | MERN Stack (MongoDB, Express, React, Node.js) |
+| **[📈 Mini Trading Dashboard](https://github.com/NithinSajjanam/VirtualTradeX.git)** | Live trading dashboard featuring TradingView charts and real-time price updates. | React, WebSocket, TradingView API, Tailwind CSS |
+| **[🧠 NitiMind – AI Assistant](https://github.com/NithinSajjanam/NitiMind.git)** | Voice-enabled AI assistant built with Gemini API, featuring contextual memory. | Python, Gemini API, SpeechRecognition |
+| **[🌐 Portfolio Website](https://nityanandh.netlify.app/)** | Responsive, SEO-optimized portfolio scoring 90+ on Lighthouse. | React, Gatsby/Next.js, Framer Motion |
 
 ---
 
@@ -75,14 +75,31 @@ I'm a passionate developer who thrives on building intelligent, scalable, and us
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/yourusername">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" />
+  </a>
 </p>
 
 ---
