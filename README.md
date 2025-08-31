@@ -1,75 +1,106 @@
-👋 Hi, I'm Sajjanam Nityanandh
+<h1 align="center">👋 Hi, I'm Sajjanam Nityanandh</h1>
+<h3 align="center">💻 Full Stack Developer | AI Enthusiast | Cloud & Data Explorer</h3>
 
-💡 Full Stack Developer | AI Enthusiast | Cloud & Data Explorer
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="mailto:your.email@example.com">Email</a> •
+  <a href="https://yourportfolio.com">Portfolio</a>
+</p>
 
-I specialize in building AI-driven applications, real-time dashboards, and cloud-hosted APIs with intuitive UI/UX. I love solving problems with technology and creating tools that make life easier.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-🚀 About Me
+---
 
-🎓 Graduate in B.Com (Computer Applications) from Vikas Degree College, Sircilla
+### 🚀 About Me
 
-💻 Skilled in Full-Stack Development, Cloud, and Data Analytics
+I'm a passionate developer who thrives on building intelligent, scalable, and user-centric solutions. I bridge the gap between complex backend logic and elegant frontend experiences, with a keen interest in leveraging AI and cloud technologies to solve real-world problems.
 
-🔧 Tech Stack:
+- 🔭 I’m currently working on **AI Agents and Advanced Cloud Integrations**.
+- 🌱 I’m exploring **Real-time Trading Applications and LLM Orchestration**.
+- 👯 I’m looking to collaborate on **innovative Web Dev, AI, and Open Source projects**.
+- 💬 Ask me about **React, FastAPI, Cloud Functions, or Data Visualization**.
+- ⚡ Fun fact: I come from a B.Com background and found my passion in code!
 
-Languages: JavaScript (ES6+), TypeScript, Python, Java, SQL
+---
 
-Frontend: React.js, Angular, HTML5, CSS3, Tailwind CSS, Bootstrap
+### 🛠️ Tech Stack
 
-Backend: FastAPI, Flask, Node.js, Express.js
+**Languages & Frameworks:**
 
-Databases/Cloud: MongoDB, MySQL, Firebase, AWS Lambda
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-Tools: GitHub, Power BI, Tableau, Excel
+**Databases & Cloud:**
 
-🌱 Currently exploring AI Agents, Advanced Cloud Integrations, and Real-time Trading Apps
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-🤝 Open to collaboration in Web Dev, AI, and Cloud Projects
+**Tools:**
 
-🛠️ Featured Projects
-🔹 Job Board Website
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-A full-stack job portal with React.js + Node.js + MongoDB, featuring advanced filtering & pagination. Improved user search efficiency by 40%.
+---
 
-🔹 AI Agent Web UI
+### 🏆 Featured Projects
 
-A browser-based AI Agent interface with OpenAI, Gemini, and DeepSeek APIs. Supports automated workflows, web interaction, and Docker deployment.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[🤖 AI Agent Web UI](https://github.com/yourusername/ai-agent-ui)** | Browser-based AI interface with multi-LLM support (OpenAI, Gemini), automated workflows, and Docker. | React, FastAPI, Docker, OpenAI API |
+| **[💼 Job Board Portal](https://github.com/yourusername/job-board)** | Full-stack job portal with advanced filtering & pagination. Improved search efficiency by 40%. | MERN Stack (MongoDB, Express, React, Node.js) |
+| **[📈 Mini Trading Dashboard](https://github.com/yourusername/trading-dash)** | Live trading dashboard featuring TradingView charts and real-time price updates. | React, WebSocket, TradingView API, Tailwind CSS |
+| **[🧠 NitiMind – AI Assistant](https://github.com/yourusername/nitimind)** | Voice-enabled AI assistant built with Gemini API, featuring contextual memory. | Python, Gemini API, SpeechRecognition |
+| **[🌐 Portfolio Website](https://github.com/yourusername/portfolio)** | Responsive, SEO-optimized portfolio scoring 90+ on Lighthouse. | React, Gatsby/Next.js, Framer Motion |
 
-🔹 Mini Trading App
+---
 
-Live trading dashboard with TradingView charts, real-time price updates, and particle UI.
+### 📜 Certifications
 
-🔹 NitiMind – AI Assistant
+- **AWS Cloud Practitioner** – Amazon (2024)
+- **Infosys Springboard - Website Development** – Infosys (2024)
+- **Software Engineering Virtual Experience** – JP Morgan (2024)
+- **Become a Data Analyst** – LinkedIn Learning (2024)
 
-Built using Gemini API, supports voice input, contextual memory, and personalized responses.
+---
 
-🔹 Portfolio Website
+### 📊 GitHub Stats
 
-Responsive, SEO-friendly portfolio site scoring 90+ Lighthouse performance.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-📜 Certifications
+---
 
-☁️ AWS Cloud – Amazon (2024)
+### 🌐 Let's Connect!
 
-🌐 Website Development – Infosys (2024)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
 
-💼 Software Engineering – JP Morgan (2024)
-
-📊 Data Analytics – LinkedIn (2024)
-
-📊 GitHub Stats
-
-
-
-
-🌐 Connect with Me
-
-📧 Email
-
-💼 LinkedIn
-
-🐙 GitHub
-
-🌍 Portfolio
-
-✨ “Code is not just about solving problems, it’s about creating impact.”
+<p align="center">
+  <i>"Code is not just about solving problems, it's about creating impact."</i>
+</p>
