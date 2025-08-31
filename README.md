@@ -75,34 +75,6 @@ I'm a passionate developer who thrives on building intelligent, scalable, and us
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" />
-  </a>
-</p>
-
----
 
 ### 🌐 Let's Connect!
 
