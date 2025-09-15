@@ -69,7 +69,7 @@ I'm a passionate developer who thrives on building intelligent, scalable, and us
 ### 📜 Certifications
 
 - **AWS Cloud Practitioner** – Amazon (2024)
-- **Infosys Springboard - Website Development** – Infosys (2024)
+- **Infosys Springboard - Website Development** – Infosys (2024) 
 - **Software Engineering Virtual Experience** – JP Morgan (2024)
 - **Become a Data Analyst** – LinkedIn Learning (2024)
 
